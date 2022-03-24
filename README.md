@@ -1,9 +1,6 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Kuba</h1>
 <h3 align="center">I am a computer science student from poland</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lawos98&label=Profile%20views&color=0e75b6&style=flat" alt="lawos98" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lawos98" alt="lawos98" /></a> </p>
 
 - 🌱 I’m currently learning **Scala,Java Scrip,Computational methods using the Julia and Operating systems using the C language**
 
