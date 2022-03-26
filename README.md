@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p align="center"><a href="#"><img width="30%" height="auto" src="7V7.gif" height="100px"/></a></p>
 <h1 align="center">Hi 👋, I'm Kuba</h1>
 <h3 align="center">I am a computer science student from poland</h3>
 
@@ -33,6 +33,6 @@
 
 <p align="center">
     <a href="https://github.com/lawos98/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="lawos98 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lawos98&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="lawos98 streak" src="https://github-readme-streak-stats.herokuapp.com?user=lawos98&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700"/>
     </a>
 </p>
