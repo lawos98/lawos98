@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am currently a student of **[Informatics](https://iet.agh.edu.pl/kierunek-informatyka/)**, at the Faculty of Informatics, Electronics and Telecommunications of the AGH University of Science and Technology in Kraków.
+- 🔭 I am currently a student of **[COMPUTER SCIENCE](https://iet.agh.edu.pl/kierunek-informatyka/)**, at the Faculty of FACULTY OF COMPUTER SCIENCE, ELECTRONICS AND TELECOMMUNICATIONS of the AGH University of Science and Technology in Kraków.
 
 - 🌱 I’m currently learning **Scala,Java Scrip,Computational methods using the Julia and Operating systems using the C language**
 
@@ -18,10 +18,10 @@
 ## 📊 My Github Stats
 
   <p align="center">
-    <a href="https://github.com/lawos98/github-readme-stats"><img alt="lawos98 Github Stats" src="https://github-readme-stats.vercel.app/api?username=lawos98&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/lawos98/github-readme-stats"><img alt="lawos98 Github Stats" src="https://github-readme-stats.vercel.app/api?username=lawos98&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
   </p>
   <p align="center">
-  <a href="https://github.com/lawos98/github-readme-stats"><img alt="lawos98 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawos98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/lawos98/github-readme-stats"><img alt="lawos98 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawos98&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
   </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
