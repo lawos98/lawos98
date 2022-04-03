@@ -37,7 +37,7 @@
     </a>
 </p>
 
-<img src="https://novatorem-lawos98.vercel.app/api/spotify">
+<img align="center" src="https://novatorem-lawos98.vercel.app/api/spotify">
 
 
 
