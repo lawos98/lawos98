@@ -1,5 +1,5 @@
 <p align="center"><a href="#"><img width="30%" height="auto" src="/assets/7V7.gif" height="100px"/></a></p>
-<h1 align="center">Hi 👋, I'm Kuba</h1>
+<h1 align="center">Hi 👻, I'm Kuba</h1>
 <h3 align="center">I am a computer science student from poland</h3>
 
 ## 🙋‍♂️ About Me
@@ -10,12 +10,40 @@
 
 - 📫 How to reach me **jakub.jan.spolnik@gmail.com**
 
-- ⚡ Fun fact **I love sailing**
+- ⚡ Fun fact **I love sailing** ⛵
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+<img height="50" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img height="50" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img height="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+<img height="50" src="https://git-scm.com/images/logo@2x.png" />
+<img height="50" src="https://logonoid.com/images/mongodb-logo.png" />
+<img height="50" src="https://pngimg.com/uploads/mysql/mysql_PNG6.png" />
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img height="50" src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" />
+<img height="50" src="https://docs.julialang.org/en/v1/assets/logo-dark.svg" />
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 
-## 📊 My Github Stats
+</p>
+
+## 💎 I am currently working on 
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Mownit&theme=midnight-purple" align="right" href="https://github.com/lawos98/Mownit"/> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=SysOpy&theme=midnight-purple" href="https://github.com/lawos98/SysOpy"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=JavaScript&theme=midnight-purple" align="right" href="https://github.com/lawos98/JavaScript"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Databases2&theme=midnight-purple"href="https://github.com/lawos98/Databases2" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Scala&theme=midnight-purple" href="https://github.com/lawos98/Scala"/>
+
+<h2 align="left"> ⚙️ My Github Stats</h2>
 
   <p align="center">
     <a href="https://github.com/lawos98/github-readme-stats"><img alt="lawos98 Github Stats" src="https://github-readme-stats.vercel.app/api?username=lawos98&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
@@ -37,7 +65,8 @@
     </a>
 </p>
 
-<img align="center" src="https://novatorem-lawos98.vercel.app/api/spotify">
+## 🎵 I am currently listening to:
+<div align="center"><img src="https://novatorem-lawos98.vercel.app/api/spotify"></div>
 
 
 
