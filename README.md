@@ -60,7 +60,7 @@
 </a>
 
 
-##⚙️ My Github Stats
+## ⚙️ My Github Stats
 
   <p align="center">
     <a href="https://github.com/lawos98/github-readme-stats"><img alt="lawos98 Github Stats" src="https://github-readme-stats.vercel.app/api?username=lawos98&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
