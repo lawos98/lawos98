@@ -33,33 +33,7 @@
 
 </p>
 
-## 💎 I am currently working on 
-
-<a href="https://github.com/lawos98/Mownit"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Mownit&theme=midnight-purple" align="right"/>
-</a>
-
-<a href="https://github.com/lawos98/SysOpy"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=SysOpy&theme=midnight-purple"/>
-</a>
-
-#
-
-<a href="https://github.com/lawos98/JavaScript"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=JavaScript&theme=midnight-purple" align="right"/>
-</a>
-
-<a href="https://github.com/lawos98/Databases2" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Databases2&theme=midnight-purple"/>
-</a>
-
-#
-
-<a href="https://github.com/lawos98/Scala">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Scala&theme=midnight-purple" href="https://github.com/lawos98/Scala"/>
-</a>
-
-<h2 align="left"> ⚙️ My Github Stats</h2>
+##⚙️ My Github Stats
 
   <p align="center">
     <a href="https://github.com/lawos98/github-readme-stats"><img alt="lawos98 Github Stats" src="https://github-readme-stats.vercel.app/api?username=lawos98&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
