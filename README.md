@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am currently a student of **[COMPUTER SCIENCE](https://iet.agh.edu.pl/kierunek-informatyka/)**, at the Faculty of FACULTY OF COMPUTER SCIENCE, ELECTRONICS AND TELECOMMUNICATIONS of the AGH University of Science and Technology in Kraków.
+- 🔭 I am currently 2nd-year student of **[COMPUTER SCIENCE](https://iet.agh.edu.pl/kierunek-informatyka/)**, at the Faculty of FACULTY OF COMPUTER SCIENCE, ELECTRONICS AND TELECOMMUNICATIONS of the AGH University of Science and Technology in Kraków.
 
 - 🌱 I’m currently learning **Scala,Java Scrip,Computational methods using the Julia and Operating systems using the C language**
 
