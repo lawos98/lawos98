@@ -36,3 +36,10 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="lawos98 streak" src="https://github-readme-streak-stats.herokuapp.com?user=lawos98&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700"/>
     </a>
 </p>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/d27sge4sf664fliyis2tbcdle">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+
