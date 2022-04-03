@@ -37,9 +37,6 @@
     </a>
 </p>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/d27sge4sf664fliyis2tbcdle">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
+[![Spotify](novatorem-xi-nine.vercel.app)](https://open.spotify.com/user/d27sge4sf664fliyis2tbcdle)
+
 
