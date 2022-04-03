@@ -37,6 +37,6 @@
     </a>
 </p>
 
-[![Spotify](novatorem-xi-nine.vercel.app)](https://open.spotify.com/user/d27sge4sf664fliyis2tbcdle)
+[![Spotify](https://novatorem-xi-nine.vercel.app)](https://open.spotify.com/user/d27sge4sf664fliyis2tbcdle)
 
 
