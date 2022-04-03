@@ -43,6 +43,8 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=SysOpy&theme=midnight-purple"/>
 </a>
 
+#
+
 <a href="https://github.com/lawos98/JavaScript"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=JavaScript&theme=midnight-purple" align="right"/>
 </a>
@@ -50,6 +52,8 @@
 <a href="https://github.com/lawos98/Databases2" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Databases2&theme=midnight-purple"/>
 </a>
+
+#
 
 <a href="https://github.com/lawos98/Scala">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Scala&theme=midnight-purple" href="https://github.com/lawos98/Scala"/>
