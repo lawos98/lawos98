@@ -35,29 +35,42 @@
 
 ## 💎 I am currently working on 
 <div align="center" width="100%">
+<div>
 <a href="https://github.com/lawos98/Mownit"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Mownit&theme=midnight-purple" align="center" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Mownit&theme=midnight-purple" align="center" width="50%"/>
 </a>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; 
+</div>
+<br/>
+
+<div>
 <a href="https://github.com/lawos98/SysOpy"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=SysOpy&theme=midnight-purple" align="center" width="40%" padding="100"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=SysOpy&theme=midnight-purple" align="center" width="50%"/>
 </a>
 </div>
-<div align="center" width="100%">
+
 <br/>
+
+<div>
 <a href="https://github.com/lawos98/JavaScript"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=JavaScript&theme=midnight-purple" align="center" width="40%"/>
-</a>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://github.com/lawos98/Scala">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Scala&theme=midnight-purple" align="center" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=JavaScript&theme=midnight-purple" align="center" width="50%"/>
 </a>
 </div>
-<div align="center" width="100%">
+
 <br/>
-<a href="https://github.com/lawos98/Databases2" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Databases2&theme=midnight-purple" align="center" width="40%"/>
+
+<div>
+<a href="https://github.com/lawos98/Scala">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Scala&theme=midnight-purple" align="center" width="50%"/>
 </a>
+</div>
+
+<br/>
+
+<div>
+<a href="https://github.com/lawos98/Databases2" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Databases2&theme=midnight-purple" align="center" width="50%"/>
+</a>
+</div>
 </div>
 
 ## ⚙️ My Github Stats
