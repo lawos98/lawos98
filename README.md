@@ -2,15 +2,36 @@
 <h1 align="center">Hi 👻, I'm Kuba</h1>
 <h3 align="center">I am a computer science student from poland</h3>
 
+<p align="center">
+<a href="discordapp.com/users/300706837764767744">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://open.spotify.com/user/d27sge4sf664fliyis2tbcdle">
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+<a href="https://anilist.co/user/lawos/">
+<img src="https://img.shields.io/badge/AniList-02A9FF?&style=for-the-badge&logo=aniList&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/lawos98/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/jakuba.spolnik">
+<img src="https://img.shields.io/badge/Facebook-1877F2?&style=for-the-badge&logo=Facebook&logoColor=white" />
+</a>
+<a href="jakub.jan.spolnik@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://steamcommunity.com/profiles/76561198196656354">
+<img src="https://img.shields.io/badge/Steam-313131?&style=for-the-badge&logo=Steam&logoColor=whitee" />
+</a>
+</p>
 ## 🙋‍♂️ About Me
 
-- 🔭 I am currently 2nd-year student of **[COMPUTER SCIENCE](https://iet.agh.edu.pl/kierunek-informatyka/)**, at the Faculty of FACULTY OF COMPUTER SCIENCE, ELECTRONICS AND TELECOMMUNICATIONS of the AGH University of Science and Technology in Kraków.
+- I am currently 2nd-year student of **[COMPUTER SCIENCE](https://iet.agh.edu.pl/kierunek-informatyka/)**, at the Faculty of computer science, electronics and telecommunications of the AGH University of Science and Technology in Cracow.
 
-- 🌱 I’m currently learning **Scala,Java Scrip,Computational methods using the Julia and Operating systems using the C language**
+- I’m currently learning **Scala,Java Scrip,Computational methods using the Julia and Operating systems using the C language**
 
-- 📫 How to reach me **jakub.jan.spolnik@gmail.com**
-
-- ⚡ Fun fact **I love sailing** ⛵
+- Fun fact **I love sailing** ⛵
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -36,27 +57,27 @@
 ## 💎 I am currently working on 
 <div align="center">
 <a href="https://github.com/lawos98/Mownit"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Mownit&theme=midnight-purple" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Mownit&theme=monokai&hide_border=true&bg_color=2c292d" width="400"/>
 </a>
 
 <a href="https://github.com/lawos98/SysOpy"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=SysOpy&theme=midnight-purple" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=SysOpy&theme=monokai&hide_border=true&bg_color=2c292d" width="400"/>
 </a>
 
 <a href="https://github.com/lawos98/JavaScript"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=JavaScript&theme=midnight-purple" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=JavaScript&theme=monokai&hide_border=true&bg_color=2c292d" width="400"/>
 </a>
 
 <a href="https://github.com/lawos98/Scala">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Scala&theme=midnight-purple" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Scala&theme=monokai&hide_border=true&bg_color=2c292d" width="400"/>
 </a>
 
 <a href="https://github.com/lawos98/Databases2" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Databases2&theme=midnight-purple" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Databases2&theme=monokai&hide_border=true&bg_color=2c292d" width="400"/>
 </a>
 
 <a href="https://github.com/MatiPl01/DB2-Restaurant" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=DB2-Restaurant&theme=midnight-purple" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=DB2-Restaurant&theme=monokai&hide_border=true&bg_color=2c292d" width="400"/>
 </a>
 </div>
 
@@ -64,30 +85,23 @@
 
 ## ⚙️ My Github Stats
 
-  <p align="center">
-    <a href="https://github.com/lawos98/github-readme-stats"><img alt="lawos98 Github Stats" src="https://github-readme-stats.vercel.app/api?username=lawos98&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
-  </p>
-  <p align="center">
-  <a href="https://github.com/lawos98/github-readme-stats"><img alt="lawos98 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawos98&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
-  </p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-
 <p align="center">
-    <a href="https://github.com/lawos98/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="lawos98 streak" src="https://github-readme-streak-stats.herokuapp.com?user=lawos98&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700"/>
-    </a>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lawos98&theme=monokai"/>
+</p>
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lawos98&theme=monokai"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lawos98&theme=monokai"/>
+</p>
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lawos98&theme=monokai"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lawos98&theme=monokai&utcOffset=8"/>
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lawos98&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2c292d"/>
 </p>
 
 ## 🎵 I am currently listening to:
 <div align="center"><img src="https://novatorem-lawos98.vercel.app/api/spotify"></div>
 
 ---
-
-
 
