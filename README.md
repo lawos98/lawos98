@@ -25,7 +25,8 @@
 <img src="https://img.shields.io/badge/Steam-313131?&style=for-the-badge&logo=Steam&logoColor=whitee" />
 </a>
 </p>
-## 🙋‍♂️ About Me
+
+##  🙋‍♂️ About Me
 
 - I am currently 2nd-year student of **[COMPUTER SCIENCE](https://iet.agh.edu.pl/kierunek-informatyka/)**, at the Faculty of computer science, electronics and telecommunications of the AGH University of Science and Technology in Cracow.
 
@@ -94,7 +95,7 @@
 </p>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lawos98&theme=monokai"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lawos98&theme=monokai&utcOffset=8"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lawos98&theme=monokai&utcOffset=+1"/>
 </p>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=lawos98&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2c292d"/>
