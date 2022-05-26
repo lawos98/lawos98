@@ -1,4 +1,7 @@
-<p align="center"><a href="#"><img width="30%" height="auto" src="/assets/7V7.gif" height="100px"/></a></p>
+<div align="center">
+<img width="300px" src="/assets/7V7.gif">
+ </div>
+
 <h1 align="center">Hi 👻, I'm Kuba</h1>
 <h3 align="center">I am a computer science student from poland</h3>
 
