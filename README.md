@@ -6,7 +6,7 @@
 <h3 align="center">I am a computer science student from poland</h3>
 
 <p align="center">
-<a href="discordapp.com/users/300706837764767744">
+<a href="https://discordapp.com/users/300706837764767744">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://open.spotify.com/user/d27sge4sf664fliyis2tbcdle">
