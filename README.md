@@ -46,7 +46,6 @@
 <img height="50" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img height="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
-<img height="50" src="https://git-scm.com/images/logo@2x.png" />
 <img height="50" src="https://logonoid.com/images/mongodb-logo.png" />
 <img height="50" src="https://pngimg.com/uploads/mysql/mysql_PNG6.png" />
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -74,10 +73,6 @@
 
 <a href="https://github.com/lawos98/Scala">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Scala&theme=monokai&hide_border=true&bg_color=2c292d" width="400"/>
-</a>
-
-<a href="https://github.com/lawos98/Databases2" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Databases2&theme=monokai&hide_border=true&bg_color=2c292d" width="400"/>
 </a>
 
 <a href="https://github.com/MatiPl01/DB2-Restaurant" />
