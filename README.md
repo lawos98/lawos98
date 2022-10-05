@@ -59,6 +59,9 @@
 
 ## 💎 I am currently working on 
 <div align="center">
+
+<!-- 
+
 <a href="https://github.com/lawos98/Mownit"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Mownit&theme=monokai&hide_border=true&bg_color=2c292d" width="400"/>
 </a>
@@ -78,6 +81,8 @@
 <a href="https://github.com/MatiPl01/DB2-Restaurant" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=DB2-Restaurant&theme=monokai&hide_border=true&bg_color=2c292d" width="400"/>
 </a>
+
+-->
 </div>
 
 ---
