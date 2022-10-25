@@ -3,7 +3,7 @@
  </div>
 
 <h1 align="center">Hi 👻, I'm Kuba</h1>
-<h3 align="center">I am a computer science student from poland</h3>
+<h3 align="center">I am a computer science student from Poland</h3>
 
 <p align="center">
 <a href="https://discordapp.com/users/300706837764767744">
@@ -33,8 +33,6 @@
 
 - I am currently 2nd-year student of **[COMPUTER SCIENCE](https://iet.agh.edu.pl/kierunek-informatyka/)**, at the Faculty of computer science, electronics and telecommunications of the AGH University of Science and Technology in Cracow.
 
-- I’m currently learning **Scala,Java Scrip,Computational methods using the Julia and Operating systems using the C language**
-
 - Fun fact **I love sailing** ⛵
 
 <h3 align="left">Languages and Tools:</h3>
@@ -60,29 +58,14 @@
 ## 💎 I am currently working on 
 <div align="center">
 
-<!-- 
-
-<a href="https://github.com/lawos98/Mownit"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Mownit&theme=monokai&hide_border=true&bg_color=2c292d" width="400"/>
+<a href="https://github.com/lawos98/Theory-of-Concurrency"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Theory-of-Concurrency&theme=radical&hide_border=true&bg_color=2c292d&height" width="400"/>
 </a>
 
-<a href="https://github.com/lawos98/SysOpy"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=SysOpy&theme=monokai&hide_border=true&bg_color=2c292d" width="400"/>
+<a href="https://github.com/lawos98/Computer-Graphics-Programming"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Computer-Graphics-Programming&theme=radical&hide_border=true&bg_color=2c292d" width="400"/>
 </a>
 
-<a href="https://github.com/lawos98/JavaScript"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=JavaScript&theme=monokai&hide_border=true&bg_color=2c292d" width="400"/>
-</a>
-
-<a href="https://github.com/lawos98/Scala">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Scala&theme=monokai&hide_border=true&bg_color=2c292d" width="400"/>
-</a>
-
-<a href="https://github.com/MatiPl01/DB2-Restaurant" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=DB2-Restaurant&theme=monokai&hide_border=true&bg_color=2c292d" width="400"/>
-</a>
-
--->
 </div>
 
 ---
@@ -90,18 +73,18 @@
 ## ⚙️ My Github Stats
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lawos98&theme=monokai"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lawos98&theme=radical"/>
 </p>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lawos98&theme=monokai"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lawos98&theme=monokai"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lawos98&theme=radical"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lawos98&theme=radical"/>
 </p>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lawos98&theme=monokai"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lawos98&theme=monokai&utcOffset=+1"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lawos98&theme=radical"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lawos98&theme=radical&utcOffset=+1"/>
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lawos98&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2c292d"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lawos98&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2c292d"/>
 </p>
 
 ## 🎵 I am currently listening to:
