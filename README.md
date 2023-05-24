@@ -15,12 +15,6 @@
 <a href="https://anilist.co/user/lawos/">
 <img src="https://img.shields.io/badge/AniList-02A9FF?&style=for-the-badge&logo=aniList&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/lawos98/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/jakuba.spolnik">
-<img src="https://img.shields.io/badge/Facebook-1877F2?&style=for-the-badge&logo=Facebook&logoColor=white" />
-</a>
 <a href="jakub.jan.spolnik@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
@@ -58,12 +52,8 @@
 ## 💎 I am currently working on 
 <div align="center">
 
-<a href="https://github.com/lawos98/Theory-of-Concurrency"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Theory-of-Concurrency&theme=radical&hide_border=true&bg_color=2c292d&height" width="400"/>
-</a>
-
-<a href="https://github.com/lawos98/Computer-Graphics-Programming"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Computer-Graphics-Programming&theme=radical&hide_border=true&bg_color=2c292d" width="400"/>
+<a href="https://github.com/lawos98/Jungle-Girls"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lawos98&repo=Jungle-Girls&theme=radical&hide_border=true&bg_color=2c292d&height" width="400"/>
 </a>
 
 </div>
